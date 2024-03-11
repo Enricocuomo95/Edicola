@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Esame1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\indirizzo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\pubblicazione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\vendita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\vendita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\abbonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\abbonato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|c:\\users\\utente\\source\\repos\\esame1\\esame1\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C6BA065-BA87-47C5-80D6-F45A15F68FE7}|Esame1\\Esame1.csproj|solutionrelative:esame1\\giornale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Indirizzo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Indirizzo.cs",
+              "RelativeDocumentMoniker": "Esame1\\Indirizzo.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Indirizzo.cs",
+              "RelativeToolTip": "Esame1\\Indirizzo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:57:58.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vendita.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Vendita.cs",
+              "RelativeDocumentMoniker": "Esame1\\Vendita.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Vendita.cs",
+              "RelativeToolTip": "Esame1\\Vendita.cs",
+              "ViewState": "AQIAAAcAAACALzMzMzMbwB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:44:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Abbonato.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Abbonato.cs",
+              "RelativeDocumentMoniker": "Esame1\\Abbonato.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Abbonato.cs",
+              "RelativeToolTip": "Esame1\\Abbonato.cs",
+              "ViewState": "AQIAAAYAAABAZWZmZmYkwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T16:38:07.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Rivista.cs",
+              "RelativeDocumentMoniker": "Esame1\\Rivista.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Rivista.cs",
+              "RelativeToolTip": "Esame1\\Rivista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:22:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Giornale.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Giornale.cs",
+              "RelativeDocumentMoniker": "Esame1\\Giornale.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Giornale.cs",
+              "RelativeToolTip": "Esame1\\Giornale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T15:22:06.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pubblicazione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Pubblicazione.cs",
+              "RelativeDocumentMoniker": "Esame1\\Pubblicazione.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Pubblicazione.cs",
+              "RelativeToolTip": "Esame1\\Pubblicazione.cs",
+              "ViewState": "AQIAABMAAAAAMzMzMzMhwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:34:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Program.cs",
+              "RelativeDocumentMoniker": "Esame1\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Esame1\\Esame1\\Program.cs",
+              "RelativeToolTip": "Esame1\\Program.cs",
+              "ViewState": "AQIAAKkAAACAKTMzM3MvwBcBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T13:33:55.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

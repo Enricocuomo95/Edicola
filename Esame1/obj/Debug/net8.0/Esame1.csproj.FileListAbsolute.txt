@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Esame1\Esame1\bin\Debug\net8.0\Esame1.exe
+C:\Users\Utente\source\repos\Esame1\Esame1\bin\Debug\net8.0\Esame1.dll
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.dll
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\refint\Esame1.dll
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.pdb
+C:\Users\Utente\source\repos\Esame1\Esame1\bin\Debug\net8.0\Esame1.deps.json
+C:\Users\Utente\source\repos\Esame1\Esame1\bin\Debug\net8.0\Esame1.runtimeconfig.json
+C:\Users\Utente\source\repos\Esame1\Esame1\bin\Debug\net8.0\Esame1.pdb
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\Esame1.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Esame1\Esame1\obj\Debug\net8.0\ref\Esame1.dll
